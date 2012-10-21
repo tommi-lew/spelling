@@ -151,7 +151,14 @@ get '/' do
       "bag" => "가방",
       "notebook" => "공책",
       "phone" => "전화",
-      "pencil" => "연"
+      "pencil" => "연",
+      "to watch" => "보다",
+      "to put on" => "입다",
+      "to wait" => "기다리다",
+      "0 to 10" => "공 일 이 삼 사 오 육 칠 팔 구 십",
+      "January to December" => "일월 이월 삼월 사월 오월 유월 칠월 팔월 구월 시월",
+      "Monday to Sunday" => "월 화 수 목 금 토 일 (~요일)",
+      "day" => "일"
   }
 
   items = combined.keys
