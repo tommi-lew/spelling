@@ -5,8 +5,6 @@ require_relative File.join('config', "shared.rb")
 
 get '/' do
   combined = {
-      "five" => "오",
-      "two" => "이",
       "cucumber" => "오이",
       "child" => "아이",
       "milk" => "우유",
@@ -89,7 +87,7 @@ get '/' do
       "address" => "주소",
       "English" => "영어",
       "who" => "누구",
-      "Hello (informal => polite)" => "한녕하세요",
+      "Hello (informal, polite)" => "한녕하세요",
       "what country" => "어느 나라",
       "Filipino" => "필리핀 사람",
       "what occupation" => "무슨 일",
@@ -151,7 +149,7 @@ get '/' do
       "bag" => "가방",
       "notebook" => "공책",
       "phone" => "전화",
-      "pencil" => "연",
+      "pencil" => "연필",
       "to watch" => "보다",
       "to put on" => "입다",
       "to wait" => "기다리다",
