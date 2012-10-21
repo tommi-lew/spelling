@@ -130,7 +130,28 @@ get '/' do
       "to be how" => "어떻다",
       "but" => "그렇지만",
       "a little" => "조금",
-      "to be difficult" => "어렵다"
+      "to be difficult" => "어렵다",
+      "today" => "오늘",
+      "what date" => "며칠",
+      "when" => "언제",
+      "birthday" => "생일",
+      "New Year's Day" => "설날",
+      "exam" => "시험",
+      "wedding ceremony" => "결혼식",
+      "culture study class" => "문화 수업",
+      "Christmas" => "크리스마스",
+      "graduation ceremony" => "졸업식",
+      "where" => "어디",
+      "school" => "학교",
+      "dormitory" => "기숙사",
+      "Korean Language Exam" => "한국어 시험",
+      "what day" => "무슨 요일",
+      "desk" => "책상",
+      "chair" => "의자",
+      "bag" => "가방",
+      "notebook" => "공책",
+      "phone" => "전화",
+      "pencil" => "연"
   }
 
   items = combined.keys
