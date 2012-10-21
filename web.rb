@@ -90,7 +90,7 @@ get '/' do
       "English" => "영어",
       "who" => "누구",
       "Hello (informal => polite)" => "한녕하세요",
-      "what country" => "어느 나러",
+      "what country" => "어느 나라",
       "Filipino" => "필리핀 사람",
       "what occupation" => "무슨 일",
       "to meet" => "만나다",
