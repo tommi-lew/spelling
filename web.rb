@@ -116,7 +116,21 @@ get '/' do
       "music" => "음악",
       "Kimbap" => "김밥",
       "to ask" => "질문하다",
-      "to answer" => "대답하다"
+      "to answer" => "대답하다",
+      "read a book" => "책을 읽다",
+      "lessons start" => "수업을 시작하다",
+      "lesson end" => "수업을 끝나다",
+      "teach korean" => "한국어를 가르치다",
+      "learn korean" => "한국어를 배우다",
+      "do homework" => "숙제하다",
+      "to talk / have a conversation" => "이야기하다",
+      "meet a friend" => "친구를 만나다",
+      "life" => "생활",
+      "recently" => "요즘",
+      "to be how" => "어떻다",
+      "but" => "그렇지만",
+      "a little" => "조금",
+      "to be difficult" => "어렵다"
   }
 
   items = combined.keys
