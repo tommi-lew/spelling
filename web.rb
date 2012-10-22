@@ -18,7 +18,7 @@ get '/' do
       "soap" => "비누",
       "banana" => "바나나",
       "dog" => "개",
-      "clock" => "시게",
+      "clock" => "시계",
       "apple" => "사과",
       "pig" => "돼지",
       "company" => "회사",
